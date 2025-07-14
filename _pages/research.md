@@ -80,8 +80,9 @@ This project explores the **combinatorial and graph-theoretic structures underly
 
 **Poster Presentation:**  
 🗓️ *Presented at the 2023 Summer Undergraduate Research Fellowships (SURF), Xi’an Jiaotong-Liverpool University*  
-[![New Variations of Parking Function](images/SURF-2023-0167.jpg)](images/SURF-2023-0167.jpg)  
+[![New Variations of Parking Function](https://guanyiy.github.io/images/SURF-2023-0167.jpg)](https://guanyiy.github.io/images/SURF-2023-0167.jpg)  
 *Click the image to view the full poster.*
+
 
 
 ---
