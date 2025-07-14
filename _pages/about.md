@@ -9,7 +9,7 @@ redirect_from:
 
 Currently diving deep into Applied Statistics as a second-year Master’s student at the [University of Michigan](www.umich.edu/), Ann Arbor, where I spend most of my time turning chaotic data into clean stories (and occasionally questioning my life choices during late-night debugging 🤯).
 
-I graduated with First-Class Honours in Mathematics with Finance from the  [University of Liverpool](www.liverpool.ac.uk/) in July 2024 — which means I’ve been crunching numbers on both sides of the Atlantic.
+I graduated with First-Class Honours in Mathematics with Finance from the  [University of Liverpool](www.liverpool.ac.uk/) in July 2024 — which means I’ve spent years discounting future regrets to present value, and investing heavily in R, Python, and caffeine.
 
 Right now, I’m working in Dr. Emily Briceno’s lab, where we explore cognitive aging, mild cognitive impairment, and cross-national measurement challenges through large-scale datasets like HCAP. My work bridges data wrangling, statistical modeling, and real-world questions in global health and neuropsychology — and I love every messy, complex minute of it.
 
