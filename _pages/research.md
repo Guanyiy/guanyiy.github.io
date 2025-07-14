@@ -14,6 +14,37 @@ I’m currently working with Professor Emily Briceno at the University of Michig
 
 More details on past and current projects are listed below. Stay tuned — I’m always exploring new directions.
 
+---
+### 🇳🇵 Nepal Cognitive Aging & MCI Assessment  
+(with [Prof. Emily Briceno](https://experts.umich.edu/4331-emily-briceno) and [Prof. Dirgha Jibi Ghimire](https://psc.isr.umich.edu/profile/ghimire-dirgha-jibi/))
+
+**Overview:** 
+This project focuses on the **adaptation of neuropsychological assessments** for **low-literacy populations** in Nepal. Specifically, we aim to culturally and linguistically adapt two cognitive tests: a **visuospatial construction and visual memory task (Constructional Praxis)** and the **Symbol Cancellation test**, ensuring accessibility, validity, and reliability in underserved settings.
+
+**My Contributions:**  
+- Led the adaptation and scoring strategy refinement for Constructional Praxis and Symbol Cancellation tasks based on field protocols and response characteristics  
+- Cleaned and harmonized raw test data from interviewer-administered paper forms and digital entry  
+- Developed logic rules for identifying **“not assessed” vs. true 0 scores** under conditions of illiteracy or visual/motor limitation  
+- Coordinated data integration with HCAP frameworks and harmonized Nepal-specific codebooks with U.S. and Mexico counterparts  
+- Built reproducible R scripts for tracking missingness, scoring distributions, and variable creation across subtests
+
+**Skills/Tools:** R, neuropsychological test coding, missing data management, HCAP harmonization, cross-cultural measurement  
+
+---
+
+### 🧠 HRS-HCAP Mild Cognitive Impairment Modeling  
+(with [Prof. Emily Briceno](https://experts.umich.edu/4331-emily-briceno), [Prof. Zachary J Kunicki](https://vivo.brown.edu/display/zkunicki) and [Prof. Miguel Arce Rentería](https://www.neurology.columbia.edu/profile/miguel-arce-renteria-phd) )
+
+**Overview:**  
+Using data from the **U.S. Health and Retirement Study (HRS-HCAP)**, this project investigates **risk factors and diagnostic pathways** for mild cognitive impairment (MCI) among older adults. We analyze associations between demographic, medical, and psychological factors and MCI subtypes (with and without memory impairment).
+
+**My Contributions:**  
+- Conducted **data cleaning and integration** from HRS core files and HCAP cognitive batteries, with attention to longitudinal structure and variable alignment  
+- Created derived variables (e.g., MCI subtype classification, CESD-based depression status, combined race/ethnicity categories)  
+- Fit and interpreted **multinomial logistic regression models** to predict cognitive status across three groups: Normal, MCI w/ memory impairment, MCI w/o memory impairment  
+- Generated **publication-ready summary tables and plots**, including stacked bar charts and model coefficient visualizations  
+
+**Skills/Tools:** R (dplyr, ggplot2, nnet), multinomial logistic regression, variable engineering, large-scale survey data handling, reproducible reporting  
 
 
 ### 🐁 Digital Cages Behavioral Data Analysis (with [Prof. Ivo D. Dinov](https://nursing.umich.edu/faculty-staff/faculty/ivo-d-dinov) and Dr. [Simeone Marino](https://medschool.umich.edu/profile/2984/simeone-marino) ) 
@@ -30,12 +61,40 @@ This project explores high-resolution **actigraphy data** collected from mice ho
 **Skills/Tools:** R, Python, data wrangling, PCA/UMAP, clustering, time-series analysis, scientific visualization  
 
 
-## Parking Functions and Unit Interval Parking Functions with Fixed Ascent and Descent Sets
+### 🅿️ Algorithmic and Graph-Theoretic Analysis of Parking Functions  
+**Advisor:** [Dr. Thomas Selig](https://scholar.xjtlu.edu.cn/en/persons/ThomasSelig)  
+**Date:** Jun. 2024 – Aug. 2024
 
-**Abstract:** We recall that unit interval parking functions of length $n$ are a subset of parking functions in which every car parks in its preference or in the spot after its preference, and Fubini rankings of length n are rankings of $n$ competitors allowing for ties. We present an independent proof of a result of Hadaway, which establishes that unit interval parking functions and Fubini rankings are in bijection. We also prove that the cardinality of these sets are given by Fubini numbers. In addition, we give a complete characterization of unit interval parking functions by determining when a rearrangement of a unit interval parking function is again a unit interval parking function. This
-yields an identity for the Fubini numbers as a sum of multinomials over compositions. Moreover, we introduce a generalization of Fubini rankings, which we call the $r$-Fubini rankings of length $n + r$. We show that this set is in bijection with unit interval parking functions of length $n + r$ where the first $r$ cars have distinct preferences. We conclude by establishing that these sets are enumerated by the $r$-Fubini numbers.
+**Overview:**  
+This project explores the **combinatorial and graph-theoretic structures underlying parking functions**, a classic object in enumerative combinatorics. Using tools such as **bipartite matchings**, **adjacency matrices**, and **friendship graphs**, we analyzed recurrence relations and structural properties of parking function families.
 
-This research was completed at the [Summer@ICERM 2022 REU](https://icerm.brown.edu/summerug/2022/) in Providence, Rhode Island with Eva Reutercrona (Pacific Lutheran University) and Juliet Whidden (Vassar College), under the mentorship of [Professor Gordon Rojas Kirby](https://sites.google.com/view/girkirby/), [Professor Pamela E. Harris](https://www.pamelaeharris.com/), [Professor Jennifer Elder](https://jennifer.totallyconsultants.com/) and graduate student S. Alex Bradt. Our paper is accepted and published (See publication section).
+**My Contributions:**  
+- Applied graph-theoretic methods to characterize and classify parking functions  
+- Developed a simulation framework in **Python** using `NetworkX` and `NumPy`, enabling large-scale testing and model validation  
+- Proposed novel multi-agent parking algorithms with **~40% improvement** in computational efficiency over standard methods  
+- Conducted over **100,000 simulation trials** and visualized patterns using `Matplotlib`  
+- Co-authored a manuscript in preparation, formalizing connections between parking functions and graph-based optimization
+
+**Skills/Tools:** Python, NetworkX, NumPy, Matplotlib, graph theory, combinatorics, algorithm design  
+
+---
+
+### 🔁 MVP Parking Functions in Abelian Sandpile Models  
+**Advisor:** [Dr. Thomas Selig](https://scholar.xjtlu.edu.cn/en/persons/ThomasSelig)  
+**Date:** Sept. 2023 – Jul. 2024  
+
+**Overview:**  
+This project investigates the **interplay between MVP parking functions and Abelian Sandpile Models (ASM)**, focusing on their application to self-organized criticality and resource allocation in discrete dynamical systems. Emphasis was placed on defining recurrence rules, modeling dynamic transitions, and testing feasibility through simulation.
+
+**My Contributions:**  
+- Conducted an in-depth **literature review** on MVP parking functions and their role in ASM and SOC systems  
+- Extended the Abelian Sandpile Model to include parking function constraints and novel transition rules  
+- Implemented Java-based simulations to study system stability, critical states, and recurrent configurations  
+- Evaluated outcomes through **statistical and algebraic analyses**, validating theoretical expectations
+
+**Skills/Tools:** Java, combinatorics, discrete dynamical systems, Abelian Sandpile Models, MVP parking functions  
+
+
 
 **Talks and Posters:**
 
