@@ -11,7 +11,7 @@ redirect_from:
 
 Below are the research projects I have done in the past few years. 
 
-Also, I am currently working with [Professor Ivo D. Dinov](https://nursing.umich.edu/faculty-staff/faculty/ivo-d-dinov) and Professor Simeone Mario on the [MDP SOCR research project](https://mdp.engin.umich.edu/research_teams/socr-24/). Here's the brief [project introduction](https://socr.umich.edu/docs/uploads/2024/SOCR_MDP_2024_Projects.pdf) for 2024. 
+Also, I am currently working with [Professor Ivo D. Dinov](https://nursing.umich.edu/faculty-staff/faculty/ivo-d-dinov) and Professor Simeone Mario on the [MDP SOCR research project](https://mdp.engin.umich.edu/research_teams/socr-24/). Here's the brief [project introduction](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://socr.umich.edu/docs/uploads/2025/SOCR_MDP_2025_Projects.pdf) for 2024. 
 
 ## Parking Functions and Unit Interval Parking Functions with Fixed Ascent and Descent Sets
 
