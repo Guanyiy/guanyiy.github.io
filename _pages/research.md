@@ -101,22 +101,19 @@ This project investigates the **interplay between MVP parking functions and Abel
 
 **Skills/Tools:** Java, combinatorics, discrete dynamical systems, Abelian Sandpile Models, MVP parking functions  
 
+---
 
+## 💹 Numerical Simulation and Hedging Strategies for European Options  
+**Advisor:** [Dr. Yi Hong](https://scholar.xjtlu.edu.cn/en/persons/YiHong)  
+**Date:** Sept. 2023 – Jan. 2024
 
-**Talks and Posters:**
+**Overview:**  
+This project investigates **numerical methods for option pricing and hedging**, focusing on the simulation and analysis of European-style derivatives under stochastic dynamics. Using both simulation-based and analytical approaches, we evaluated pricing accuracy, hedging efficiency, and exposure sensitivity under varying market conditions.
 
-1. 2022 Summer@ICERM Final Presentation ([slide](https://app.icerm.brown.edu/assets/372/4320/4320_3425_Reutercrona-Wang-Whidden_080320221100_Slides.pdf))
-2. 2023 Joint Mathematics Meeting - Pi Mu Epsilon Poster Session ([poster](files/pf_poster.pdf))
-3. 2023 Joint Mathematics Meeting - Pi Mu Epsilon Contributed Session on Research by Undergraduates
+**My Contributions:**  
+- Implemented the **Euler–Maruyama method** to discretize SDEs and simulate **100,000+ price paths** under geometric Brownian motion (GBM)  
+- Designed and optimized **Delta-neutral** and **Delta-Gamma-neutral** hedging strategies using Black–Scholes Greeks  
+- Assessed pricing error and numerical stability, with an average deviation of **1.8%** from analytical solutions across configurations  
+- Conducted **hedge replication analysis**, measuring risk exposure and visualizing convergence trends using `Matplotlib`
 
-## Determination of Average Time that A Particle Escapes from a Channel with Diverse Parameters
-
-**Abstract:** As a particle bounces within a macroscopic billiard table, microstructures affect the frequency of output angles. There also exists a connection between macrostructures and microstructures, both of which determining particle behavior, which we quantify as the mean escape time. In the case of a microstructure that introduces specular diffuse collision law, the mean escape time is reminiscent of martingales and optional stopping theorem. With triangular microgeometry, the output angles are finite. We begin to construct the transition matrix which models the behavior of these output angles, and define the ways in which the angles transform within the triangular cells.
-
-This research was completed at Summer 2021 REU at Mount Holyoke College with Ruozhen Gong and Emily Rosaci, under the mentorship of [Professor Timothy Chumley](https://tchumley.mtholyoke.edu/?_ga=2.98059675.564660943.1704846727-1838912408.1704846727). Our group wrote a [final report](https://tchumley.mtholyoke.edu/pdf/Summer_2021_research_report.pdf) and built an [R-shiny app](https://olypys-yuxuan-wang.shinyapps.io/Billiards_Probability_and_their_Interplay/) to showcase our results.
-
-## Leveraging Financial News Analysis to Predict Stock Price Movement
-
-**Abstract:** Stock market predictions have been prominent among scholars. Sentiment analysis applying financial news articles for predicting stock has also grown in popularity over the past few decades. Our research indicates the impact of sentiment analysis of financial news on forecasting asset prices. In this research, sentiment is culled from financial news of companies over the past three years. Subsequently the asset prices can be predicted using stock market data, alongside sentiment analysis data with several machine learning algorithms. The results show a more convincing level of precision in the aggregation of both stock market data and sentiment analysis data.
-
-This research was completed in Summer 2020 CIS REU with Mingchen Xu (Shanghai International Studies University), Yiran Huang (Nankai University), and Mulei Xu, under the mentorship of Professor Patrick Houlihan at Columbia University. Our published paper is available [here](https://www.airitilibrary.com/Article/Detail/P20200813001-202107-202107160001-202107160001-265-276). 
+**Skills/Tools:** Python, stochastic processes, SDE discretization, Black–Scholes model, Monte Carlo simulation, numerical analysis, financial engineering  
