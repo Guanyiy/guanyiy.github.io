@@ -15,7 +15,7 @@ I’m currently working with Professor Emily Briceno at the University of Michig
 More details on past and current projects are listed below. Stay tuned — I’m always exploring new directions.
 
 ---
-### 🇳🇵 Nepal Cognitive Aging & MCI Assessment  
+## 🇳🇵 Nepal Cognitive Aging & MCI Assessment  
 (with [Prof. Emily Briceno](https://experts.umich.edu/4331-emily-briceno) and [Prof. Dirgha Jibi Ghimire](https://psc.isr.umich.edu/profile/ghimire-dirgha-jibi/))
 
 **Overview:** 
@@ -32,7 +32,7 @@ This project focuses on the **adaptation of neuropsychological assessments** for
 
 ---
 
-### 🧠 HRS-HCAP Mild Cognitive Impairment Modeling  
+## 🧠 HRS-HCAP Mild Cognitive Impairment Modeling  
 (with [Prof. Emily Briceno](https://experts.umich.edu/4331-emily-briceno), [Prof. Zachary J Kunicki](https://vivo.brown.edu/display/zkunicki) and [Prof. Miguel Arce Rentería](https://www.neurology.columbia.edu/profile/miguel-arce-renteria-phd) )
 
 **Overview:**  
@@ -47,7 +47,7 @@ Using data from the **U.S. Health and Retirement Study (HRS-HCAP)**, this projec
 **Skills/Tools:** R (dplyr, ggplot2, nnet), multinomial logistic regression, variable engineering, large-scale survey data handling, reproducible reporting  
 
 
-### 🐁 Digital Cages Behavioral Data Analysis (with [Prof. Ivo D. Dinov](https://nursing.umich.edu/faculty-staff/faculty/ivo-d-dinov) and Dr. [Simeone Marino](https://medschool.umich.edu/profile/2984/simeone-marino) ) 
+## 🐁 Digital Cages Behavioral Data Analysis (with [Prof. Ivo D. Dinov](https://nursing.umich.edu/faculty-staff/faculty/ivo-d-dinov) and Dr. [Simeone Marino](https://medschool.umich.edu/profile/2984/simeone-marino) ) 
 
 **Overview:**  
 This project explores high-resolution **actigraphy data** collected from mice housed in “digital cages” — an automated platform that passively captures movement-based behavioral patterns. Our aim is to identify **distinct activity profiles** and uncover **latent behavioral states** under varying experimental conditions.
@@ -61,8 +61,9 @@ This project explores high-resolution **actigraphy data** collected from mice ho
 **Skills/Tools:** R, Python, data wrangling, PCA/UMAP, clustering, time-series analysis, scientific visualization  
 
 
-### 🅿️ Algorithmic and Graph-Theoretic Analysis of Parking Functions  
+## 🅿️ Algorithmic and Graph-Theoretic Analysis of Parking Functions  
 **Advisor:** [Dr. Thomas Selig](https://scholar.xjtlu.edu.cn/en/persons/ThomasSelig)  
+**Institution:** Xi’an Jiaotong-Liverpool University  
 **Date:** Jun. 2024 – Aug. 2024
 
 **Overview:**  
@@ -73,13 +74,19 @@ This project explores the **combinatorial and graph-theoretic structures underly
 - Developed a simulation framework in **Python** using `NetworkX` and `NumPy`, enabling large-scale testing and model validation  
 - Proposed novel multi-agent parking algorithms with **~40% improvement** in computational efficiency over standard methods  
 - Conducted over **100,000 simulation trials** and visualized patterns using `Matplotlib`  
-- Co-authored a manuscript in preparation, formalizing connections between parking functions and graph-based optimization
+- Co-authored a manuscript in preparation, formalizing connections between parking functions and graph-based optimization  
 
-**Skills/Tools:** Python, NetworkX, NumPy, Matplotlib, graph theory, combinatorics, algorithm design  
+**Skills/Tools:** Python, NetworkX, NumPy, Matplotlib, graph theory, combinatorics, algorithm design
+
+**Poster Presentation:**  
+🗓️ *Presented at the 2023 Summer Undergraduate Research Fellowships (SURF), Xi’an Jiaotong-Liverpool University*  
+[![New Variations of Parking Function](images/SURF-2023-0167.jpg)](images/SURF-2023-0167.jpg)  
+*Click the image to view the full poster.*
+
 
 ---
 
-### 🔁 MVP Parking Functions in Abelian Sandpile Models  
+## 🔁 MVP Parking Functions in Abelian Sandpile Models  
 **Advisor:** [Dr. Thomas Selig](https://scholar.xjtlu.edu.cn/en/persons/ThomasSelig)  
 **Date:** Sept. 2023 – Jul. 2024  
 
