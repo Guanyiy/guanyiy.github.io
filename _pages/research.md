@@ -8,10 +8,27 @@ redirect_from:
   - /research/
   - /research.html
 ---
+Over the past few years, I’ve had the opportunity to work on several research projects that span statistics, cognitive science, and global health. These experiences have strengthened my skills in data wrangling, statistical modeling, and interdisciplinary collaboration — and deepened my curiosity for using data to answer real-world questions.
 
-Below are the research projects I have done in the past few years. 
+I’m currently working with Professor Emily Briceno at the University of Michigan, where our team focuses on cognitive aging, mild cognitive impairment (MCI), and cross-cultural neuropsychological assessment, particularly in low- and middle-income countries. My role includes data cleaning, variable harmonization, modeling cognitive outcomes, and navigating the complexities of large, multi-country studies.
 
-Also, I am currently working with [Professor Ivo D. Dinov](https://nursing.umich.edu/faculty-staff/faculty/ivo-d-dinov) and Professor Simeone Mario on the [MDP SOCR research project](https://mdp.engin.umich.edu/research_teams/socr-24/). Here's the brief [project introduction](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://socr.umich.edu/docs/uploads/2025/SOCR_MDP_2025_Projects.pdf) for 2024. 
+More details on past and current projects are listed below. Stay tuned — I’m always exploring new directions.
+
+
+
+### 🐁 Digital Cages Behavioral Data Analysis (with [Prof. Ivo D. Dinov](https://nursing.umich.edu/faculty-staff/faculty/ivo-d-dinov) and Dr. [Simeone Marino](https://medschool.umich.edu/profile/2984/simeone-marino) ) 
+
+**Overview:**  
+This project explores high-resolution **actigraphy data** collected from mice housed in “digital cages” — an automated platform that passively captures movement-based behavioral patterns. Our aim is to identify **distinct activity profiles** and uncover **latent behavioral states** under varying experimental conditions.
+
+**My Contributions:**  
+- Cleaned and preprocessed large-scale time-series datasets, including timestamp alignment, sensor noise filtering, and missing value imputation  
+- Applied **dimensionality reduction** (PCA, UMAP, t-SNE) to visualize behavioral trajectories across individuals  
+- Performed **unsupervised clustering** (k-means, hierarchical) to identify natural groupings in activity patterns  
+- Integrated **feature selection pipelines** using the NExOS algorithm for downstream supervised learning and behavioral prediction  
+
+**Skills/Tools:** R, Python, data wrangling, PCA/UMAP, clustering, time-series analysis, scientific visualization  
+
 
 ## Parking Functions and Unit Interval Parking Functions with Fixed Ascent and Descent Sets
 
